@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  color: #2828d7;
+  background-color: #FFA92B
+}
+
+p {
+  display: inline;
+}
+
+h1 {
+  font-family: "Trebuchet MS"
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p.fill {
+  color: #FFA92B
+}
+
+button.grid:hover {
+  background-color: yellow
+}
+
+button.grid:hover {
+  cursor: pointer
+}
+
+button.grid {
+  background-color: #E0E0E0;
+  color: black;
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+  font-size: 60px;
+}
